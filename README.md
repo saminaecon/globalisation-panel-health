@@ -51,4 +51,3 @@ The executable Stata script (`master_analysis.do`) progresses through a 4-tier e
     └── master_analysis.do     # Complete, annotated Stata execution routine
 
 ---
-*Note: The core Stata execution script (`master_analysis.do`) is currently being audited and will be committed shortly.*
